@@ -7,7 +7,7 @@ Welcome to my digital playground! I'm a passionate Computer Science Engineering 
 
 ## 🌱 Always in Beta
 
-I believe in the power of perpetual learning. My mind is an ever-expanding library, eagerly awaiting the next chapter of knowledge. Whether it's mastering a new programming language or diving into the depths of quantum computing, I'm always hungry for more.
+I believe in the power of perpetual learning. My mind is an ever-expanding library, eagerly awaiting the next chapter of knowledge.
 
 ## 💬 Let's Connect!
 
