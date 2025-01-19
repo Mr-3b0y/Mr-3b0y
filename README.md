@@ -2,7 +2,7 @@
 
 🚀 Aspiring Code Alchemist | 💡 Digital Dream Weaver | 🌟 Byte Whisperer
 
-Welcome to my digital playground! I'm a passionate Computer Science Engineering student on a quest to transform caffeine into code and dreams into algorithms. My keyboard is my wand, and my monitor is the crystal ball where I foresee the future of technology.
+Welcome to my digital playground!   I am a passionate Computer Science Engineer who seeks to transform caffeine into code and dreams into algorithms.   My keyboard is my magic wand and my monitor is the crystal ball where I foresee the future of technology.
 
 
 ## 🌱 Always in Beta
